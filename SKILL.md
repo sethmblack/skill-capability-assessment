@@ -1,12 +1,10 @@
 ---
 name: capability-assessment
-description: Precisely define what a system, technology, or approach can and cannot
-  do - distinguishing actual capabilities from aspirational claims, execution from
-  origination, as Ada Lovelace did when assessi...
+description: Precisely define what a system, technology, or approach can and cannot do - distinguishing actual capabilities from aspirational claims, execution from origination, as Ada Lovelace did when assessi...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - capability-assessment
 - transformation
