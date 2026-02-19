@@ -4,7 +4,8 @@ description: Precisely define what a system, technology, or approach can and can
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3530
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - capability-assessment
 - transformation
@@ -200,33 +201,21 @@ Create actionable outputs:
 3. [Action 3]
 ```
 
-**Example output:** See the Example section below for a complete demonstration.
+## Anti-Patterns to Avoid
+
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Hype acceptance** | Marketing claims often exceed actual capability | Enumerate actual operations before assessing claims |
+| **Excessive skepticism** | Dismissing real capabilities misses genuine utility | Acknowledge what the system CAN do, precisely |
+| **Confusing potential with current** | "Could do X" is not "does X" | Separate actual from aspirational |
+| **Ignoring context** | Capability depends on conditions and use case | Assess capability in specific deployment context |
+| **Anthropomorphizing** | Attributing human-like understanding to systems | Focus on operations, not intentions or understanding |
 
 ## Example
 
 **Input:** "Assess what a large language model like GPT-4 can actually do"
 
 **Output:**
-
-
-
-**Why this works:**
-
-This example demonstrates the key principles of the skill in action. The approach is effective because:
-- It follows the systematic workflow outlined above
-- It shows concrete application of the framework
-- It produces actionable, specific outputs rather than vague generalizations
-- The analysis is grounded in observable details
-- The recommendations are prioritized and implementable
-
-**Alternative applications:**
-
-This same approach can be applied to:
-- Different contexts within the same domain
-- Related but distinct problem types
-- Scaled up or down depending on scope
-- Combined with complementary analytical frameworks
-
 
 ## Capability Assessment
 
