@@ -3,8 +3,8 @@ name: capability-assessment
 description: Precisely define what a system, technology, or approach can and cannot do - distinguishing actual capabilities from aspirational claims, execution from origination, as Ada Lovelace did when assessi...
 license: MIT
 metadata:
+  version: 1.0.3531
   author: sethmblack
-  version: 1.0.3530
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - capability-assessment
